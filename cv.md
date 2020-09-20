@@ -36,7 +36,7 @@
         <h3>Education:</h3><h3><i>Pavel Sukhoi State Technical University of Gomel (IT-specialist)</i></h3>
     </p>
     <p>
-        <h3>English level:</h3><h3><i>B1(Intermediate)</i></h3>
+        <h3>English-level:</h3><h3><i>B1(Intermediate)</i></h3>
     </p>
 </body>
 </html>
